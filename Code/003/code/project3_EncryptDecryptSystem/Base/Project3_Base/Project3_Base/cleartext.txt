@@ -1,0 +1,2 @@
+Hello World!
+This is clearText 1 for testing!
